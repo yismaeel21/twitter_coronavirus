@@ -1,3 +1,4 @@
 # Coronavirus analysis
 
-This repo analyzes the activity of coronavirus hashtags on twitter.
+This repo analyzes the activity of coronavirus hashtags on twitter from October 2019 until April 05 2020. 
+The data can be found in the viz folder and the corresponding hashtags within those folders correspond to the number of times that hashtag has been used. Naturally there was increase in all these related hashtags. The viz repo has two files in it: lang and country. The lang file analyzes the languages in which coronavirus was tweeted about whereas the country file analyzes the geolocation of where those tweets were published. Naturally, the majority of these tweets were in English and the location was in the United States. These tweets also show that countries that are more hardly struck by coronavirus were the ones that tweeted about it the most as both Italy/Italian and Spain/Spanish are amongst the top tweeters in location and language. 
